@@ -52,7 +52,7 @@ Write-Host ""
 
 $apps = @(
     "*3DBuilder*"
-    "*549981C3F5F10*"        # Cortana
+    "*549981C3F5F10*"        # Cortana - AI slop
     "*BingFinance*"
     "*BingNews*"
     "*BingSports*"
@@ -79,7 +79,7 @@ $apps = @(
     "*SkypeApp*"
     "*Spotify*"
     "*Teams*"
-    "*TikTok*"
+    "*TikTok*"          
     "*Todos*"
     "*WindowsAlarms*"
     "*WindowsCamera*"
